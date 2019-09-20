@@ -1,7 +1,7 @@
 # QuinPod
 A sleek and powerful music player built with React Native
 
-![cover](https://mega.nz/#!KRREBCpD!WHiTyjZoZtURd2JyEyrLaFPA80s5ZnO_QkiM5CUPRZ4)
+![cover](Git-Cov.png)
 
 ## Installation
 - Clone the repository and run `react-native init`
